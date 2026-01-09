@@ -1,6 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<h1> HELLO COODERS I AM ABDULHADI KEZZA</h1>
+ <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=abdulhadi&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -14,6 +15,8 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -27,7 +30,7 @@
 
 class About extends Me { 
   const myTools = {  
-    "Languages" : { "C++", "Python", "JavaScript", "HTML", "CSS", "Bootstrap" },
+    "Languages" : { "C++", "Python", "JavaScript", "REACT.JS" , "HTML", "CSS", "Bootstrap" , "PHP"  },
     "Platform" : { "Windows" },
     "Editor" : { "VSCode" },
     "Tools" : { "Git" }
