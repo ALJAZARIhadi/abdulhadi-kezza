@@ -1,6 +1,6 @@
 <div align="center" width="600">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=45&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=WELCOME+I'M+ABDULHADI+KEZZA;FULL+STACK+DEVELOPER;PYTHON+%7C+PHP+%7C+REACT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=45&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=WELCOME+I'M+ABDULHADI+KEZZA;FULL+STACK+DEVELOPER;JS+%7C+REACT+%7C+CS)](https://git.io/typing-svg)
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
