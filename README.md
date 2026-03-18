@@ -36,6 +36,6 @@ class About extends Me {
     "Languages" : { "C++", "Python", "C#", "JavaScript", "REACT.JS" , "HTML", "CSS", "Bootstrap" , "PHP"  },
     "Platform" : { "Windows" },
     "Editor" : { "VSCode" },
-    "Tools" : { "Git" }
+    "Tools" : { "Git", "Github"}
   };
 }
