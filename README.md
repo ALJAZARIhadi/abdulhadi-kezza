@@ -1,41 +1,32 @@
-<div align="center" width="600">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=45&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=WELCOME+I'M+ABDULHADI+KEZZA;FULL+STACK+DEVELOPER;JS+%7C+REACT+%7C+CS)](https://git.io/typing-svg)
+# 🚀 WELCOME, I'M ABDULHADI KEZZA
+### 💻 Full Stack Developer | Problem Solver | Tech Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;C%2B%2B+%7C+C%23+%7C+React+%7C+Python;Turning+Coffee+into+Code+☕)](https://git.io/typing-svg)
 
 <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/>
+<br>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=abdulhadi&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=abdulhadi&style=flat-square&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdulhadi&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
 ---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![CS](https://img.shields.io/badge/CS-777BB4?style=flat&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+### 👨‍💻 About Me
 
 ```cpp
-// tools_I_use organized
+class Developer {
+public:
+    std::string name       = "Abdulhadi Kezza";
+    std::string role       = "Full Stack Developer";
+    std::string focus      = "Scalable Systems & Web Apps";
+    std::vector<std::string> skills = { "C++", "C#", "Python", "React", "JS", "PHP" };
 
-class About extends Me { 
-  const myTools = {  
-    "Languages" : { "C++", "Python", "C#", "JavaScript", "REACT.JS" , "HTML", "CSS", "Bootstrap" , "PHP"  },
-    "Platform" : { "Windows" },
-    "Editor" : { "VSCode" },
-    "Tools" : { "Git", "Github"}
-  };
-}
+    void goal() {
+        std::cout << "Creating efficient code that solves real-world problems." << std::endl;
+    }
+};
