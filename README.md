@@ -29,4 +29,4 @@ public:
     void goal() {
         std::cout << "Creating efficient code that solves real-world problems." << std::endl;
     }
-}; 1
+}; 
