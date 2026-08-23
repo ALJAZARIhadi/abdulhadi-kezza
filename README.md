@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 WELCOME, I'M ABDULHADI KEZZA
-### 💻 Full Stack Developer | Problem Solver | Tech Enthusiast | Desktop Apps
+### 💻 Full Stack Developer | Problem Solver | Tech Enthusiast  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;C%2B%2B+%7C+C%23+%7C+React+%7C+Python;Turning+Coffee+into+Code+☕)](https://git.io/typing-svg)
 
