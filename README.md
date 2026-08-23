@@ -23,7 +23,7 @@ class Developer {
 public:
     std::string name       = "Abdulhadi Kezza";
     std::string role       = "Full Stack Developer";
-    std::string focus      = "Scalable Systems & Web Apps";
+    std::string focus      = "Scalable Systems & Web Apps & Desktop Apps(Windows Forms)";
     std::vector<std::string> skills = { "C++", "C#", "Python", "React", "JS", "PHP" };
 
     void goal() {
